@@ -74,6 +74,9 @@ Author: [Mikael Koli](https://github.com/Miksus)
 
 
 ----
+
+```
 Python 3.10.10
 pydantic.errors.PydanticUserError: `const` is removed, use `Literal` instead
 pydantic==1.10.12
+```
